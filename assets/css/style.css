@@ -380,6 +380,25 @@ section {
   margin-bottom: 0;
 }
 
+.about .btn {
+  background-color:#fff;
+  border: none;
+  padding: 10px 15px;
+  cursor: pointer;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #050d18;
+}
+
+/* Darker background on mouse-over */
+.about .btn:hover {
+  background-color: #5cbfec;;
+}
+
+.about .btn .a:hover {
+  color: #fff;;
+}
+
 /*--------------------------------------------------------------
 # Facts
 --------------------------------------------------------------*/
