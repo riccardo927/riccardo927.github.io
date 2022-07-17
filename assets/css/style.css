@@ -667,7 +667,8 @@ section {
 .portfolio .title {
   text-align: center;
   font-weight: 700;
-  margin-bottom: 15px;
+  margin-top: 25px;
+  margin-bottom: 20px;
   font-size: 22px;
 }
 .portfolio .title a {
