@@ -702,11 +702,19 @@ section {
   font-size: 24px;
   line-height: 0;
 }
+.services .icon svg {
+  fill: #fff; /* This might not directly apply as expected, depending on your SVG */
+  width: 24px; /* Adjust size as needed */
+  height: 24px; /* Adjust size as needed */
+}
 .services .icon-box:hover .icon {
   background: #fff;
 }
 .services .icon-box:hover .icon i {
   color: #149ddd;
+}
+.services .icon-box:hover .icon svg {
+  fill: #149ddd;
 }
 .services .title {
   margin-left: 80px;
