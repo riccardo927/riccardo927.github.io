@@ -112,6 +112,15 @@ h1, h2, h3, h4, h5, h6 {
   text-decoration: none;
 }
 
+#header .profile .social-links .download {
+  width: 70px; /* Adjust as necessary */
+  display: inline-block;
+  border-radius: 30px;
+  line-height: 21px;
+  /* align-items: center; */
+  justify-content: center; 
+}
+
 #main {
   margin-left: 300px;
 }
